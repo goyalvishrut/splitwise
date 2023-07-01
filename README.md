@@ -1,8 +1,7 @@
 # Splitwise
 
-This is the solution to a split wise machine coding question (/*
+This is the solution to a split wise machine coding question
 https://workat.tech/machine-coding/editorial/how-to-design-splitwise-machine-coding-ayvnfo1tfst6
-*/)
 
 This input format will have three main input key
 
@@ -32,5 +31,7 @@ It will in format
 ### <input key (value = Quit)>
 
 example = quit
+
+Just install the app and run the function
 
 ![img.png](img.png)
